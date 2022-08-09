@@ -7,9 +7,6 @@
   margin: 4rem;
   border-radius: 1rem;
   background: var(--gradient-bar);
-
-  border: 1px solid white;
-  color: white;
 }
 
 .gpt3__cta-content p {
