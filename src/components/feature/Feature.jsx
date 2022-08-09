@@ -8,6 +8,7 @@ const Feature = ({ title, text }) => {
     title: PropTypes.string,
     text: PropTypes.string
   }
+
   return (
     <div className='gpt3__features-container__feature'>
       <div className='gpt3__features-container__feature-title'>
